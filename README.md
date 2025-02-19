@@ -1,5 +1,5 @@
-# tarea-eleccion-bajo-incertidumbre
-
+# tarea de eleccion bajo incertidumbre
+## Explicación
 <img width="669" alt="image" src="https://github.com/user-attachments/assets/f016cca2-750e-4ee4-8be8-151f2d24f956" />
 <img width="669" alt="image" src="https://github.com/user-attachments/assets/bc2eebdb-5637-476b-9cd7-45167786a8b8" />
 <img width="669" alt="image" src="https://github.com/user-attachments/assets/8323578b-6bec-4909-9cb5-2d15036cc10a" />
